@@ -21,7 +21,7 @@
 <p style="font-family: Georgia, serif; font-size: 22px;">👋 <strong>Hey, I'm Ngan!</strong></p>
 
 <p style="font-family: Georgia, serif; font-size: 15px;">
-I'm a student consultant interesting in using data & AI to drive decisions that matter — from scaling financial services infrastructure to empowering nonprofits with data.
+I'm a soon-to-be graduated undergrad student consultant interested in using data & AI to drive decisions that matter — from scaling financial services infrastructure to empowering nonprofits with data.
 </p>
 
 ```python
@@ -41,11 +41,11 @@ About_me = {
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 <p style="font-family: Georgia, serif; font-size: 15px;">
-🎓 <strong>Data Analytics</strong> with a focus on <strong>Economics</strong> <br/>
+🎓 <strong>Data Analytics</strong> with a focus on <strong>Economics</strong> graduating May 2026 <br/>
 🏦 Experience in technology across <strong>financial servies and nonprofits</strong><br/>
-🔬 Deep work in <strong>model evaluation</strong>, and <strong>reviewing access in Information Technology</strong><br/>
+🔬 Deep work in <strong>model evaluation</strong>, and <strong>user access framework in Information Technology</strong><br/>
 🤖 Currently learning <strong>Applied AI</strong> — from experimentation to production<br/>
-📊 I love transforming messy data into clean, scalable, decision-ready insights<br/>
+📊 I love transforming messy data into clean, scalable, decision-ready insights to support businesses <br/>
 💡 Believer in <strong>data democratization</strong> for social good
 </p>
 
