@@ -25,7 +25,7 @@ I'm a soon-to-be graduated undergrad student consultant interested in using data
 </p>
 
 ```python
-About_me 🙋🏻‍♀️ = {
+My_interest 🙋🏻‍♀️ = {
     "focus"     : ["Mangement Consulting", "Predictive Analytics", "Applied AI", "ML at Scale" ],
     "domains"   : ["Financial Services", "Nonprofits", "Information Technology"],
     "craft"     : ["Model Evaluation", "SQL/Python Pipelines", "Microsoft 365 Automation"],
