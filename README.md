@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:2d1b69,50:6b21a8,75:f472b6,100:fbbf24&height=220&section=header&text=Ngan%20Nguyen&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20%7C%20ML%20%7C%20Applied%20AI&descAlignY=56&descSize=20&animation=twinkling&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:2d1b69,50:6b21a8,75:f472b6,100:fbbf24&height=220&section=header&text=Ngan%20(Helen)%20Nguyen&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20%7C%20ML%20%7C%20Applied%20AI&descAlignY=56&descSize=20&animation=twinkling&fontAlign=50" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -25,7 +25,7 @@ I'm a soon-to-be graduated undergrad student consultant interested in using data
 </p>
 
 ```python
-About_me = {
+About_me 🙋🏻‍♀️ = {
     "focus"     : ["Mangement Consulting", "Predictive Analytics", "Applied AI", "ML at Scale" ],
     "domains"   : ["Financial Services", "Nonprofits", "Information Technology"],
     "craft"     : ["Model Evaluation", "SQL/Python Pipelines", "Microsoft 365 Automation"],
