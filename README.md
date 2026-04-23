@@ -43,7 +43,7 @@ My_interest 🙋🏻‍♀️ = {
 <p style="font-family: Georgia, serif; font-size: 15px;">
 🎓 <strong>Data Analytics</strong> with a focus on <strong>Economics</strong> graduating May 2026 <br/>
 🏦 Experience in technology across <strong>financial servies and nonprofits</strong><br/>
-🔬 Deep work in <strong>model evaluation</strong>, and <strong>user access framework in Information Technology</strong><br/>
+🔬 Deep work in <strong>model evaluation</strong> and <strong>Information Technology user access framework</strong><br/>
 🤖 Currently learning <strong>Applied AI</strong> — from experimentation to production<br/>
 📊 I love transforming messy data into clean, scalable, decision-ready insights to support businesses <br/>
 💡 Believer in <strong>data democratization</strong> for social good
